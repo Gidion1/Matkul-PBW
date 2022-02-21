@@ -1,0 +1,59 @@
+* {
+    color: rgb(49, 49, 49);
+}
+
+h2 {
+    font-size: 50px;
+    margin-left: 100px;
+    color: black;
+    text-align: center;
+}
+
+.container {
+    margin-left: 100px;
+    margin-top: -10px;
+}
+
+.container1 {
+    margin-left: 100px;
+    
+}
+
+p {
+    font-size: 17px;
+}
+
+input , textarea , select{
+    width: 800px;
+    padding: 8px 20px;
+}
+
+.radio {
+    width: 50px;
+}
+
+.contact-submit {
+    width: 100px;
+    background-color: rgb(67, 67, 255);
+    color: white;
+    border: none;
+    border-radius: 3px;
+    margin-top: 20px;
+}
+
+.radio {
+    text-align: center;
+    margin-left: 80px;
+}
+
+.select {
+    width: 700px;
+}
+
+.nano {
+    margin-left: 100px;
+}
+
+.area {
+    height: 100px;
+}
