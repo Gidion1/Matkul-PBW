@@ -1,0 +1,18 @@
+[
+    {
+        "Maskapai": "Japan Air",
+        "Asal_penerbangan": "Soekarno-Hatta (CGK)",
+        "tujuan_penerbangan": "Hasanuddin (UPG)",
+        "Harga_tiket": "200000",
+        "Pajak": 0,
+        "Total_harga": 200000
+    },
+    {
+        "Maskapai": "Garuda",
+        "Asal_penerbangan": "Juanda (IDN)",
+        "tujuan_penerbangan": "Bangkok Line (THA)",
+        "Harga_tiket": "700000",
+        "Pajak": 130000,
+        "Total_harga": 830000
+    }
+]
